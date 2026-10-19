@@ -1,3 +1,1 @@
-Brainstorm Ideas for API:
-Auto clicker
-Livestream captions
+This script is for me to skip dialogues in games whenever there is no skip option!
